@@ -1,0 +1,14 @@
+C:\Users\kyles\OneDrive\Desktop\CSCI473\Assign1\Assignment-1\bin\Debug\Assign1.exe.config
+C:\Users\kyles\OneDrive\Desktop\CSCI473\Assign1\Assignment-1\bin\Debug\Assign1.exe
+C:\Users\kyles\OneDrive\Desktop\CSCI473\Assign1\Assignment-1\bin\Debug\Assign1.pdb
+C:\Users\kyles\OneDrive\Desktop\CSCI473\Assign1\Assignment-1\obj\Debug\Assignment-1.csproj.CoreCompileInputs.cache
+C:\Users\kyles\OneDrive\Desktop\CSCI473\Assign1\Assignment-1\obj\Debug\Assign1.exe
+C:\Users\kyles\OneDrive\Desktop\CSCI473\Assign1\Assignment-1\obj\Debug\Assign1.pdb
+C:\Users\kyles\OneDrive\Desktop\CSCI473\Assign1\Assignment-1\obj\Debug\Assignment-1.csproj.AssemblyReference.cache
+C:\Users\kyles\OneDrive\Desktop\CSCI473\A1\KylePawz\Assignment-1\obj\Debug\Assignment-1.csproj.AssemblyReference.cache
+C:\Users\kyles\OneDrive\Desktop\CSCI473\A1\KylePawz\Assignment-1\obj\Debug\Assignment-1.csproj.CoreCompileInputs.cache
+C:\Users\kyles\OneDrive\Desktop\CSCI473\A1\KylePawz\Assignment-1\obj\Debug\Assign1.exe
+C:\Users\kyles\OneDrive\Desktop\CSCI473\A1\KylePawz\Assignment-1\obj\Debug\Assign1.pdb
+C:\Users\kyles\OneDrive\Desktop\CSCI473\A1\KylePawz\Assignment-1\bin\Debug\Assign1.exe.config
+C:\Users\kyles\OneDrive\Desktop\CSCI473\A1\KylePawz\Assignment-1\bin\Debug\Assign1.exe
+C:\Users\kyles\OneDrive\Desktop\CSCI473\A1\KylePawz\Assignment-1\bin\Debug\Assign1.pdb
